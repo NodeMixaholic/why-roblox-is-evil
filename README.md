@@ -11,6 +11,6 @@ If you're thinking about buying robux, remember that it's just an exploit for th
 
 The ROBLOX community is also criticized for being toxic, with many users being rude or just straight up abusive to others. This breaks Roblox's policies against abuse and bullying, but the company has taken very little action against these users so far.
 
-Also worth noting: when Epic Games were suing Apple, one side (I forgot which, does not matter in this scenario) pointed out that external game stores were not allowed on the App Store, so ROBLOX changed their “games” to “experiences”, but we all know they are games. Very shady indeed.
+Also worth noting: when Epic Games were suing Apple, ROBLOX re-checked the Apple EULA and they found out that external game stores were not allowed on the App Store, so ROBLOX changed their “games” to “experiences”, but we all know they are games. Very shady indeed.
 
 ROBLOX has been the subject of much criticism for it's exploitative and shady practices, poor quality software, and toxic community.
