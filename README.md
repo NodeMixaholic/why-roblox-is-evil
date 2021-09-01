@@ -1,4 +1,5 @@
 # why-roblox-is-evil
+## Why Roblox is evil and we should all avoid it like Ninten... err... the plague.
 Roblox is an online game development and playing software that is targeted at kids. But it seems like ROBLOX Studio has some shady practices that are worth noting.
 
 Roblox’s “Terms of Service” (TOS) are exploitive and restrictive. Roblox claims the following: "You hereby irrevocably transfer and assign to Us all right, title, and interest in and to your Content." They sound so generous on first glance, but there's more on the terms of service page. Roblox claims the following: "You hereby grant us a perpetual, irrevocable, nonexclusive, royalty-free, fully paid, worldwide license (with the right to sublicense through unlimited levels of sublicensees) to use any or all of Your Content for any [reason]” 
