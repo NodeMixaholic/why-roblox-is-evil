@@ -14,3 +14,6 @@ The ROBLOX community is also criticized for being toxic, with many users being r
 Also worth noting: when Epic Games were suing Apple, ROBLOX re-checked the Apple EULA and they found out that external game stores were not allowed on the App Store, so ROBLOX changed their “games” to “experiences”, but we all know they are games. Very shady indeed.
 
 ROBLOX has been the subject of much criticism for it's exploitative and shady practices, poor quality software, and toxic community.
+
+## In addition...
+ROBLOX keeps, purposefully or not, breaking compatibility with Linux. Once in 2012, once in early August 2021 and once in Late August/Early September 2021. These last two don't seem coincidental, because they are so close together and they are similar crashes (only difference between the two is that the last one has graphical glitches.) In fact, it seems like its on purpose.
