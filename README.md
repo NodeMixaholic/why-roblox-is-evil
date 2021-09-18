@@ -16,4 +16,4 @@ Also worth noting: when Epic Games were suing Apple, ROBLOX re-checked the Apple
 ROBLOX has been the subject of much criticism for it's exploitative and shady practices, poor quality software, and toxic community.
 
 ## In addition...
-ROBLOX keeps, purposefully or not, breaking compatibility with Linux. Once in 2012, and once in early August 2021. These last one don't seem coincidental, because they are so close together and they are similar crashes. In fact, it seems like its on purpose because of this.
+ROBLOX keeps, purposefully or not, breaking compatibility with Linux. Once in 2012, and once in early August 2021. The two crashes don't seem coincidental, because they are so close together of when people found a way to run ROBLOX on Linux, and they are similar crashes. In fact, it seems like its on purpose because of this.
