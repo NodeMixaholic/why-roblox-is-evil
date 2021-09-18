@@ -1,6 +1,6 @@
 # why-roblox-is-evil
 ## Why Roblox is evil and we should all avoid it like Ninten... err... the plague.
-Roblox is an online game development and playing software that is targeted at kids. But it seems like ROBLOX Studio has some shady practices that are worth noting.
+Roblox is an online game development and playing software that is targeted at kids. But it seems like ROBLOX has some shady practices that are worth noting.
 
 Roblox’s “Terms of Service” (TOS) are exploitive and restrictive. Roblox claims the following: "You hereby irrevocably transfer and assign to Us all right, title, and interest in and to your Content." They sound so generous on first glance, but there's more on the terms of service page. Roblox claims the following: "You hereby grant us a perpetual, irrevocable, nonexclusive, royalty-free, fully paid, worldwide license (with the right to sublicense through unlimited levels of sublicensees) to use any or all of Your Content for any [reason]” 
 Roblox is a company that is dedicated to exploiting its developers and making money off of them, and in order to do so it needs people to buy their useless in-game currency.
@@ -16,4 +16,4 @@ Also worth noting: when Epic Games were suing Apple, ROBLOX re-checked the Apple
 ROBLOX has been the subject of much criticism for it's exploitative and shady practices, poor quality software, and toxic community.
 
 ## In addition...
-ROBLOX keeps, purposefully or not, breaking compatibility with Linux. Once in 2012, once in early August 2021 and once in Late August/Early September 2021. These last two don't seem coincidental, because they are so close together and they are similar crashes (only difference between the two is that the last one has graphical glitches.) In fact, it seems like its on purpose because of this.
+ROBLOX keeps, purposefully or not, breaking compatibility with Linux. Once in 2012, and once in early August 2021. These last one don't seem coincidental, because they are so close together and they are similar crashes. In fact, it seems like its on purpose because of this.
